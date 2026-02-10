@@ -8,10 +8,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.log
 
-# Dataset images (optional – recommended if large)
-Dataset/Fake_Notes/
-Dataset/Real_Notes/
-
 # OS
 .DS_Store
 Thumbs.db

@@ -1,5 +1,5 @@
-# 🧠 Fake Currency Detection System 
-*A Trustworthy Artificial Intelligence Course Project*
+# 🧠 NoteSure-AI
+*An Explainable AI System for Indian Currency Authentication*
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green.svg)
@@ -150,17 +150,9 @@ To give a visual overview of the user experience:
 
 ---
 
-## 👥 Contributors
+## 🏁 Conclusion
 
-| Name | Role |
-|---|---|
-| Maheswari Mudadla | Image Processing & GUI Design |
-| Nihita Kolukula | Core Algorithm Development |
-| Niyati Kolukula | Dataset Preparation & Testing |
-| Aishwarya Para | Documentation & Integration |
-
-
-
+NoteSure AI demonstrates how ethical, explainable, and trustworthy AI systems can be applied to real-world financial security problems. By prioritizing transparency over black-box accuracy, the project delivers a scalable and responsible approach to counterfeit currency detection.
 
 
 ---

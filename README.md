@@ -157,6 +157,4 @@ NoteSure AI demonstrates how ethical, explainable, and trustworthy AI systems ca
 
 ---
 
-## 🏁 Conclusion
-
-The Fake Currency Detection System successfully demonstrates the application of Trustworthy Artificial Intelligence principles—namely **accuracy, interpretability, and accessibility**—to solve a real-world financial security problem. By robustly combining computer vision with ethical AI practices, this project delivers a scalable, transparent, and user-centric solution for counterfeit detection.
+Happy Coding :)
